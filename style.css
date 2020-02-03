@@ -1,6 +1,9 @@
+body {
+	background-color: LightBlue;
+}
+
 .container {
 	text-align: center;
-	background-color: LightBlue;
 }
 
 .button {
